@@ -1,1 +1,6 @@
 collections:
+  Westons 2026 Ranked:
+    letterboxd_list_details: https://boxd.it/S0OEi
+    sync_mode: sync
+    collection_order: custom
+    visible_home: true
