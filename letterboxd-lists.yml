@@ -1,16 +1,5 @@
 collections:
   Westons 2026 Ranked:
-    letterboxd_list_details: https://boxd.it/S0OEi
-    sync_mode: sync
-    collection_order: custom
-    visible_home: true 
-
-  Major Directors (I like) with Releases in 2026:
-    letterboxd_list_details: https://boxd.it/RyudK
-    sync_mode: sync
-    collection_order: custom
-    visible_home: true
-  Westons 2026 Ranked:
     letterboxd_list_details: https://letterboxd.com/rwestonc/list/westons-2026-ranked/
     sync_mode: sync
     collection_order: custom
