@@ -4,3 +4,9 @@ collections:
     sync_mode: sync
     collection_order: custom
     visible_home: true
+
+  Major Directors I Like with Releases in 2026:
+    letterboxd_list_details: https://letterboxd.com/rwestonc/list/major-directors-i-like-with-releases-in-2026/
+    sync_mode: sync
+    collection_order: custom
+    visible_home: false
