@@ -10,3 +10,8 @@ collections:
     sync_mode: sync
     collection_order: custom
     visible_home: true
+  Westons 2026 Ranked:
+    letterboxd_list_details: https://letterboxd.com/rwestonc/list/westons-2026-ranked/
+    sync_mode: sync
+    collection_order: custom
+    visible_home: true
