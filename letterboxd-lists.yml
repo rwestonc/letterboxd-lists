@@ -10,3 +10,8 @@ collections:
     sync_mode: sync
     collection_order: custom
     visible_home: false
+  Great River Movies:
+    letterboxd_list_details: https://letterboxd.com/rwestonc/list/great-river-movies/
+    sync_mode: sync
+    collection_order: custom
+    visible_home: false
