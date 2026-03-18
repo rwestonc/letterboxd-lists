@@ -3,20 +3,29 @@ collections:
     letterboxd_list_details: https://letterboxd.com/rwestonc/list/westons-2026-ranked/
     sync_mode: sync
     collection_order: custom
+    radarr_add_missing: true
+    radarr_search: true
     visible_home: true
-
   Major Directors I Like with Releases in 2026:
     letterboxd_list_details: https://letterboxd.com/rwestonc/list/major-directors-i-like-with-releases-in-2026/
     sync_mode: sync
     collection_order: custom
     visible_home: false
+    minimum_items: 1
+    radarr_add_missing: true
+    radarr_search: true
+    radarr_tag: DirectorReleases2026
   Great River Movies:
     letterboxd_list_details: https://letterboxd.com/rwestonc/list/great-river-movies/
     sync_mode: sync
     collection_order: custom
+    radarr_add_missing: true
+    radarr_search: true
     visible_home: false
   The Michael Crichton Cinematic Universe:
     letterboxd_list_details: https://letterboxd.com/rwestonc/list/the-michael-crichton-cinematic-universe/
     sync_mode: sync
     collection_order: custom
+    radarr_add_missing: true
+    radarr_search: true
     visible_home: false
