@@ -29,3 +29,9 @@ collections:
     radarr_add_missing: true
     radarr_search: true
     visible_home: false
+
+  Tangerine Dream Scored Movies:
+    letterboxd_list_details: https://letterboxd.com/justacinemakook/list/tangerine-dream/
+    sync_mode: sync
+    collection_order: custom
+    visible_home: false
