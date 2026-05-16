@@ -35,3 +35,8 @@ collections:
     sync_mode: sync
     collection_order: custom
     visible_home: false
+  The 25th Academy Awards Nominees:
+    letterboxd_list_details: https://letterboxd.com/oscartracker/list/25th-academy-awards/
+    sync_mode: sync
+    collection_order: custom
+    visible_home: false
